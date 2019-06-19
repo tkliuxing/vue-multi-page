@@ -2,8 +2,7 @@
 
 ------
 
-<img src="https://img.shields.io/badge/Vue.js-v2-green.svg" alt=""> <img src="https://img.shields.io/badge/webpack-3.6.0-blue.svg" alt="">
-
+<img src="https://img.shields.io/badge/Vue.js-v2-green.svg" alt=""><img src="https://img.shields.io/badge/VueCli-3.8.4-blue.svg" alt="">
 > Vue.js 多页应用模板
 
 ## 开发起步
